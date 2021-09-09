@@ -1,4 +1,4 @@
-# Image-Search-
+# Image Search
 Myntra Image Search ML Model:
 <ul>
   <li>
